@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChatLink</string>
+    <string name="messenger">Chat Link</string>
+    <string name="your_email">Your email:</string>
+    <string name="your_password">Your password:</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password_title">Forgot password?</string>
+    <string name="reset_password">Reset password</string>
+    <string name="logout">Logout</string>
+    <string name="reset_link_sent">The reset link has been successfully sent</string>
+    <string name="type_your_message">Type your message:</string>
+</resources>

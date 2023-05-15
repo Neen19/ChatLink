@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063188283620",
+    "project_id": "chatlink-5eafc",
+    "storage_bucket": "chatlink-5eafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063188283620:android:44fcf963312d10ded36cf1",
+        "android_client_info": {
+          "package_name": "com.example.chatlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063188283620-3t0spc43eu3b5k1f0mud8pi0tc805062.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk-9zaIsFBXMNumt6RYb4oxEd5BEBJAhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063188283620-3t0spc43eu3b5k1f0mud8pi0tc805062.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
